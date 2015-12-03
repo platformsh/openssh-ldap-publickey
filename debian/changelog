@@ -1,3 +1,12 @@
+openssh-ldap-publickey (0.0.3) unstable; urgency=medium
+
+  [ Florian MARGAINE ]
+  * Fix the missing dependency.
+
+  [ Florian Margaine ]
+
+ -- Florian Margaine <florian@margaine.com>  Thu, 03 Dec 2015 17:36:17 +0100
+
 openssh-ldap-publickey (0.0.2) unstable; urgency=medium
 
   [ Florian MARGAINE ]
