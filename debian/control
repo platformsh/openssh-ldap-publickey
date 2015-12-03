@@ -1,0 +1,11 @@
+Source: openssh-ldap-publickey
+Maintainer: Platform.sh <sayhello@platform.sh
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.1
+
+Package: openssh-ldap-publickey
+Architecture: all
+Depends: perl (>= 5), perl (<< 6), libnet-ldap-perl
+Description: Fork of openssh-ldap-publickey with fixed SSL verify
