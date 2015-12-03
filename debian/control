@@ -7,5 +7,5 @@ Standards-Version: 3.9.1
 
 Package: openssh-ldap-publickey
 Architecture: all
-Depends: perl (>= 5), perl (<< 6), libnet-ldap-perl
+Depends: perl (>= 5), perl (<< 6), libnet-ldap-perl, libio-socket-ssl-perl
 Description: Fork of openssh-ldap-publickey with fixed SSL verify
