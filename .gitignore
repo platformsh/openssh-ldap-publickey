@@ -1,0 +1,4 @@
+debian/files
+debian/openssh-ldap-publickey.debhelper.log
+debian/openssh-ldap-publickey.substvars
+debian/openssh-ldap-publickey/
