@@ -18,3 +18,7 @@ Depends: ${misc:Depends},
 Description: Wrapper for OpenSSH to store public keys inside the OpenLDAP entry
  This tool allows you to store SSH Public keys into your LDAP directory and use
  them without the need of patching SSH server.
+ .
+ This is a fork of the software written by Andrii Grytsenko located at
+ https://github.com/AndriiGrytsenko/openssh-ldap-publickey. Additional patches
+ provide support for SSL/TLS.
