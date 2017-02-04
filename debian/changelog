@@ -1,3 +1,17 @@
+openssh-ldap-publickey (0.0.3+nmu1) unstable; urgency=medium
+
+  [ Andrii Senkovych ]
+  * Non-maintainer upload
+  * Add manpage to the package
+  * Add more debian build files to gitignore
+  * Add gbp config
+  * Fix lintian errors
+
+  [ Simon Ruggier ]
+  * Add a .gitignore file
+
+ -- Andriy Senkovych <jolly_roger@itblog.org.ua>  Fri, 27 May 2016 12:44:37 +0300
+
 openssh-ldap-publickey (0.0.3) unstable; urgency=medium
 
   [ Florian MARGAINE ]
